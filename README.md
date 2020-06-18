@@ -6,6 +6,10 @@ You need to have EXPO app installed to run the project, you can download it in y
 
 In the project directory, you can run:
 
+### `yarn init`
+
+Install all project depedences.<br />
+
 ### `yarn start`
 
 Runs the app in the development mode.
